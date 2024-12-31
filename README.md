@@ -1,5 +1,4 @@
-Name: MINUKOORI NAVYA Company: CODTECH IT SOLUTIONS PVT. LTD Intern ID: CT12EHE![WhatsApp Image 2024-12-31 at 10 33 04 AM](https://github.com/user-attachments/assets/46d4c888-a5ee-415c-b3d9-2fa8d39cb1bf)
- Domain: Embedded Systems Duration: December 17th, 2024 to February 17th, 2025
+Name: MINUKOORI NAVYA Company: CODTECH IT SOLUTIONS PVT. LTD Intern ID: CT12EHE Domain: Embedded Systems Duration: December 17th, 2024 to February 17th, 2025
 
 Overview of the Project Project: LED Blinking with Arduino Program an Arduino board to blink an LED at a specific interval. This project introduces basic embedded programming concepts and interfacing with hardware.
 
